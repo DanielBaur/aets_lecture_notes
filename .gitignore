@@ -32,3 +32,6 @@ Desktop.ini
 
 # Quellen-PDFs – lizenziert, bleiben lokal
 docs/reference/**/*.pdf
+
+# Gesamter Quellen-Ordner – nicht veröffentlicht
+docs/reference/
